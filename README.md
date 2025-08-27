@@ -54,4 +54,4 @@ Provide incentives for secure payment methods
 
 Implement proactive follow-ups for high-risk customers
 
-✅ With this project, business teams can anticipate churn and design data-driven retention strategies.
+# With this project, business teams can anticipate churn and design data-driven retention strategies.
